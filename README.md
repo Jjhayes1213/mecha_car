@@ -4,12 +4,7 @@
 We would fail to accept the null hypothesis for the vehicle length as well as the ground clearance.  Both of these show a non-random amount of variance due to the values being under 0.05.  This linear model slope would fall under zero because the p-value is 5.35e-11.  This linear model can effectively predict the mpg of MechaCar.  The R-squared values comes out to 0.7149 or about 72% prediction rate.  
 
 ## Summary Statistics on Suspension Coils
-
-![alt text](https://https://github.com/Jjhayes1213/mecha_car/blob/main/total_summary.png/image.png?raw=true)
 The variance for Lots 1 and 2 are so low that over all the 3 lots could meet the specifications with a total variance of 62%.  However weighed on their own, only lots 1 and 2 meet the allowed requirement for the suspension coil to have a less that 100 pond per square inch variance.
-
-![alt text](https://https://github.com/Jjhayes1213/mecha_car/blob/main/lot_summary.png/image.png?raw=true)
-
 
 ## T-Test on Suspension Coils
 The t-test on Lot 1, Lot 2, and Lot 3 all produced a 95% confidence level in the interval due to the sample mean estimates of 1500 pounds per square inch.
